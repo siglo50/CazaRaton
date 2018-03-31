@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.siglo50.cazaraton" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Juego Caza Raton</name>
+    <description>
+        Juego Caza Raton
+    </description>
+    <author email="siglo50b@gmail.com" href="">
+        Siglo50
+    </author>
+    <content src="login.html" />
+    <access origin="*" />
+    <plugin name="cordova-plugin-device-motion"/>
+</widget>
